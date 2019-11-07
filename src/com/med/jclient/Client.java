@@ -1,7 +1,5 @@
 package com.med.jclient;
 
-import javafx.application.Application;
-
 import java.io.*;
 import java.net.*;
 
